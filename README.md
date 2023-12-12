@@ -1,6 +1,6 @@
 # 👋 ¡Hola!
 # 🕵️ Sobre mi:
-💼 Freelancer.<br>👨‍💻 Realizo mis propios proyectos y estoy enfocado en mi universidad.<br>🌱 Actualmente estoy aprendiendo desarrollo web.<br>🎓Me gustaría especializarme como desarrollador back-end.<br>👨‍🎓 Estudiante de Ingeniería Informática.<br>🤝 En busca de un trabajo.
+💼 Freelancer.<br>🌱 Actualmente estoy aprendiendo desarrollo web.<br>👨‍💻 Mis proyectos realizados los comparto acá.<br>🎓Me gustaría especializarme como desarrollador back-end o Ingeniero de Software.<br>👨‍🎓 Estudiante de Ingeniería Informática.<br>🤝 En busca de un trabajo.
 
 
 ## 🌐 Redes Sociales:
