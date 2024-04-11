@@ -1,10 +1,10 @@
 # 👋 ¡Hola!
 # 🕵️ Sobre mi:
-💼 Freelancer.<br>🌱 Actualmente estoy aprendiendo desarrollo web.<br>👨‍💻 Mis proyectos realizados los podras ver en mis repositorios.<br> 🎓 Estudiante de Ingeniería Informática.<br>🤝 En busca de un trabajo.
+💼 Freelancer y emprendedor.<br>🌱 Actualmente estoy aprendiendo desarrollo web.<br>👨‍💻 Mis proyectos realizados los podras ver en mis repositorios.<br> 🎓 Estudiante de Ingeniería Informática.<br>🤝 En busca de un trabajo.
 
 
 ## 🌐 Redes Sociales:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gabriel_luugo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/carloslugoo) 
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/gabriel_luugo) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/carloslugoo) 
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=py,flask,django,js,html,react,css,postgres,mysql,postman,vercel,aws)](https://skillicons.dev)
