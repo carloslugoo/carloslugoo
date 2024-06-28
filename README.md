@@ -9,9 +9,7 @@
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/gabriel_luugo) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/carloslugoo) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=carloslugoo&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=carloslugoo&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=carloslugoo&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=carloslugoo&theme=gruvbox&hide_border=false) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carloslugoo&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
