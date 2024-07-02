@@ -1,7 +1,7 @@
 # <h1 align="center"><b>¡Hola! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!---->
 # <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mi**
-💼 Freelancer y emprendedor.<br>🌱 Participando en programas de formación continua fortalecer mi perfil profesional. <br>👨‍💻 Python Full Stack Developer (Flask, Django). <br> 🎓 Estudiante de Ingeniería Informática.<br>🤝 Buscando nuevas oportunidades laborales.
+💼 Freelancer y emprendedor.<br>🌱 Participando en programas de formación para fortalecer mi perfil profesional. <br>👨‍💻 Python Full Stack Developer (Flask, Django). <br> 🎓 Estudiante de Ingeniería Informática.<br>🤝 Buscando nuevas oportunidades laborales.
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=py,flask,django,js,html,react,css,postgres,mysql,postman,vercel,aws)](https://skillicons.dev)
