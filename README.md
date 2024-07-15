@@ -8,7 +8,7 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25"/>  Contáctame:
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/gabriel_luugo) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/carloslugoo) 
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> GitHub Stats:
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> GitHub Stats:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=carloslugoo&theme=gruvbox&hide_border=false) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carloslugoo&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
