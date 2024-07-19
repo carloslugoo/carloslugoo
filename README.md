@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1><br>
+<h1 align="center">¡Hola!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ## <picture><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /></picture> **Sobre mi**
 💼 Freelancer y emprendedor.<br>🌱 Participando en programas de formación para fortalecer mi perfil profesional. <br>👨‍💻 Python Full Stack Developer (Flask, Django). <br> 🎓 Estudiante de Ingeniería Informática.<br>🤝 Buscando nuevas oportunidades laborales.
