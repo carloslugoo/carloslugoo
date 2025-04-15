@@ -11,7 +11,7 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Detective%20Light%20Skin%20Tone.png" alt="Detective Light Skin Tone" width="30" height="30" /> Ultimos cursos o actividades:
 | Curso o actividad | Repositorio | Año |
 | ------------- | ------------- | ------------- |
-| Diseño Web Responsivo | [Link](https://github.com/carloslugoo/WebDesing-FreeCodeCamp)  | 2025 |
+| Diseño Web Responsivo (En curso) | [Link](https://github.com/carloslugoo/WebDesing-FreeCodeCamp)  | 2025 |
 | Hackathon: Guía Turística Interactiva de Encarnación (Segundo puesto)  | [Link](https://github.com/carloslugoo/hackathon-desafio-web)  | 2024 |
 | Desarrollador Full Stack MERN | [Link](https://github.com/carloslugoo/CodingDojo-BootcampFullStack) | 2024 |
 | Ingeniero Web con Python | [Link](https://github.com/carloslugoo/WebDesing-FreeCodeCamp) | 2023 |
